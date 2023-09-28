@@ -1,0 +1,13 @@
+<emailcaptureplugin scriptid="customscript_email_so_csv_plugin">
+  <description></description>
+  <isinactive>F</isinactive>
+  <loglevel>DEBUG</loglevel>
+  <name>Email SO CSV Plugin</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <runasrole></runasrole>
+  <scriptfile>[/SuiteScripts/SuiteScript-Project/TypeScriptsv1/emailcsvplugin.js]</scriptfile>
+  <status>RELEASED</status>
+</emailcaptureplugin>
